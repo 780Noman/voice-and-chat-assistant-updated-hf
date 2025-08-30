@@ -1,0 +1,6 @@
+gradio
+speechrecognition
+gtts
+google-generativeai
+langdetect
+pydub
